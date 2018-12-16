@@ -1,0 +1,4 @@
+// enable location
+
+// install react-native-maps
+npm install react-native-maps --save
